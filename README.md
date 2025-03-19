@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+There are a bunch of starting commands for initializing that I ahould talk about here. Also talk about the issues I faced with the api quota and that payment resolved it.
+
 ## Getting Started
 
 First, run the development server:
